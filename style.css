@@ -169,7 +169,7 @@ a{
   /* margin: 20px; */
   margin: 0px 20px 20px 20px;
   width: 450px;
-  height: 230px;
+   
   border: 1px solid rgb(255, 240, 75);
   border-radius: 10px;
   box-shadow: 0px 5px 10px rgb(252, 255, 154);
@@ -179,7 +179,7 @@ a{
 }
 .love{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(255, 47, 0);
   border-radius: 10px;
@@ -190,7 +190,7 @@ a{
 }
 .music{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(0, 145, 255);
   border-radius: 10px;
@@ -201,7 +201,7 @@ a{
 }
 .church{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(119, 0, 255);
   border-radius: 10px;
@@ -212,7 +212,7 @@ a{
 }
 .profile{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(0, 255, 21);
   border-radius: 10px;
@@ -224,7 +224,7 @@ a{
 
 .bwp{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(47, 0, 255);
   border-radius: 10px;
@@ -235,7 +235,7 @@ a{
 }
 .solar{
   width: 450px;
-  height: 230px;
+   
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(255, 153, 0);
   border-radius: 10px;
